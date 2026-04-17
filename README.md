@@ -90,7 +90,7 @@ Notes:
 - After bootstrap, test with:
 
 ```text
-5 3 + .
+4 2 + .
 ```
 
 4. Exit `screen`: `Ctrl-A`, then `K`.
